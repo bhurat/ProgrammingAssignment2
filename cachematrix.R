@@ -2,7 +2,7 @@
 ## of functions to work with which you can get a cached matrix and inverse, as
 ## as well as set them. You also have a function which will get the inverse of
 ## cached matrix and return it (either from the cache if available or by 
-## solve() function. 
+## solve() functionf. 
 
 ## Creates a list of functions. one to set matrix in cache, one to get cached
 ## matrix, one to set inverse in cache to specific value, and one to get said
